@@ -1,4 +1,4 @@
-# Projects
+# Restaurant Sales Project
 Restaurant Sales report project
 EDA and Analysis Ideas for restaurant business
 
